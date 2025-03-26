@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image:images/untitled design.png
+  background-image:url('images/untitled design.png')
   font-family: var(--default-font-family);
 }
 
